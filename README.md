@@ -1,82 +1,68 @@
-# Hi there, I'm Ryan 👋
-
-## About Me
-- 🌱 I’m currently learning about **web and mobile app development** and **AI**.
-- 🔭 I’m currently working on an **ERP system for farmers**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **NextJs** , **React Native** and **Supabase**.
-- 📫 How to reach me: [ryankatayi.com](mailto:rkata73@gmail.com)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## 🛠️ Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKatayi&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
-</div>
-
-## 📫 Connect with me
-<div align="center">
-  <a href="https://linkedin.com/in/ryankatayi">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ryankatayi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.ryankatayi.com">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/ryankatayi">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="mailto:ryan.katayi@example.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-## 💼 Projects
-### Pinned Projects
+<img src="https://komarev.com/ghpvc/?username=RyanKatayi&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div align="center">
-  <a href="https://github.com/RyanKatayi/money-wallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanKatayi&repo=money-wallet&theme=radical" />
-  </a>
-  <a href="https://github.com/RyanKatayi/rn-video-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanKatayi&repo=rn-video-app&theme=radical" />
-  </a>
-  <a href="https://github.com/RyanKatayi/zennith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanKatayi&repo=zennith&theme=radical" />
-  </a>
-  <a href="https://github.com/RyanKatayi/facerecognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanKatayi&repo=facerecognition&theme=radical" />
-  </a>
-  <a href="https://github.com/RyanKatayi/care-medical">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanKatayi&repo=care-medical&theme=radical" />
-  </a>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Deploying Next.js with Vercel](https://www.ryankatayi.com/blog/vercel)
-- [Building a Grimoire with Markdown and Gatsby](https://www.ryankatayi.com/blog/grimoire)
-- [Getting Started with TypeScript](https://www.ryankatayi.com/blog/typescript)
-<!-- BLOG-POST-LIST:END -->
+---
 
-## 🌟 Visitor Count
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanKatayi&color=blue" alt="Visitor Count" />
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zimbabwe.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems and read tech articles.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RyanKatayi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryankatayi)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/expo.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/react.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/nextdotjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/supabase.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/appwrite.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanKatayi&theme=github" alt="Ryan's GitHub Activity Graph" />
-</div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanKatayi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKatayi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
