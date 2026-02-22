@@ -40,7 +40,7 @@
 <section>
   <h2>:man_technologist: About Me</h2>
   <p>
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer Icon"> from Zimbabwe.
+    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer Icon"> from Montreal.
   </p>
   <ul>
     <li>:telescope: I’m working as a Software Engineer and contributing to both frontend and backend projects.</li>
